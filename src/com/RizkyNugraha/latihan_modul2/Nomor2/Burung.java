@@ -8,7 +8,7 @@ public class Burung extends Binatang{
         this.nama = nama;
     }
 
-    /* Mencetak Nama Kucing dari Child Kucing
+    /* Mencetak Nama Burung dari Child Burung
     dan, memanggil method Nama() dan Tidur()
     dari class warisan / Parent Class Binatang */
     public void getNama() {
